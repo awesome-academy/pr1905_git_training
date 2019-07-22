@@ -10,4 +10,5 @@ red
 blue
 =======
 Trinh Duc Toan: Black
->>>>>>> d783add491447278258e97ab87e0af522ef76ac2
+ d783add491447278258e97ab87e0af522ef76ac2
+blueee
